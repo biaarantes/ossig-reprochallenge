@@ -1130,3 +1130,12 @@ img {
     transform: none;
   }
 }
+
+
+.role-card .checklist {
+  margin-top: 1rem;
+}
+
+.benefits-heading {
+  margin-top: 3rem;
+}
